@@ -18,10 +18,8 @@
 #define VALUE_RANGE_MAX 1.0
 #define WINDOW_WIDTH 80
 #define WINDOW_HIGHT 25
-#ifdef DEBUG
 #define WINDOW_CENTER_X 0
 #define WINDOW_CENTER_Y (WINDOW_HIGHT / 2)
-#endif
 #define WINDOW_SYMBOL '.'
 #define PLOT_SYMBOL '*'
 #define AXIS_SYMBOL '#'

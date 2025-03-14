@@ -1,6 +1,7 @@
 #ifndef GRAPTH_COMMON_H
 #define GRAPTH_COMMON_H
 
-#define DEBUG
+// show debug info
+// #define DEBUG
 
 #endif
