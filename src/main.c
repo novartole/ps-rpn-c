@@ -161,5 +161,3 @@ static ExitCode print(const NUMBER values[WINDOW_WIDTH]) {
   }
   return EXIT_OK;
 }
-
-static void foo(int a) {}
