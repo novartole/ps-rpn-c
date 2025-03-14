@@ -2,7 +2,7 @@ ifeq ($(origin CC),default)
 	CC = gcc
 endif
 
-CFLAGS += -Wall -Wextra -Werror
+CFLAGS += -Wall -Wextra
 
 SRC_DIR ?= src
 OUT_DIR ?= build
